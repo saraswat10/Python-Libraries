@@ -1,8 +1,7 @@
 # Python-Libraries
-This repository contains well-structured documentation, **PDF** resources, and __CODE__ implementations designed to facilitate clear conceptual understanding and hands-on learning. It serves as a concise and organized reference for consistent practice and revision.
+This repository presents a well-structured collection of documentation, **CODE** implementations, and **PDF** resources to enable a systematic and in-depth understanding of core concepts. It integrates theoretical insights with practical examples, ensuring clarity, consistency, and real-world applicability. The content is organized to serve as a reliable reference for continuous learning, practice, and efficient revision.
 
-
-## Libraries
+## Libraries covered
 
 ### 1. NumPy
 ### 2. Pandas
