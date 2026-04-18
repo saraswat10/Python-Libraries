@@ -12,5 +12,5 @@ This repository presents a well-structured collection of documentation, **CODE**
 
 
 
-## NOTE
+## NOTE :-
 Study the libraries in the specified sequence, as each library builds upon the previous one. This approach ensures a deeper understanding and makes the learning process more effective.
