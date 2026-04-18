@@ -12,4 +12,4 @@ This repository presents a well-structured collection of documentation, **CODE**
 
 
 ## NOTE 
-Study the libraries in the specified sequence, as each library builds upon the previous one. This approach ensures a deeper understanding and makes the learning process more effective.
+Study the libraries in the specified sequence, as each library is related to the previous one. This approach ensures a deeper understanding and makes the learning process more effective.
