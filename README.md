@@ -1,2 +1,10 @@
 # Python-Libraries
-This repository contains well-structured notes and practical implementations aimed at building a strong understanding of core concepts. It serves as a concise reference for learning and revision through hands-on examples.
+This repository contains well-structured documentation, **PDF** resources, and __CODE__ implementations designed to facilitate clear conceptual understanding and hands-on learning. It serves as a concise and organized reference for consistent practice and revision.
+
+
+## Libraries
+
+### 1. NumPy
+### 2. Pandas
+### 3. Matplotlib
+### 4. Seaborn
